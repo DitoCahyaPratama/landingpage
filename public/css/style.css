@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-.kotak{
+.kotak {
     width: 100px;
     height: 5px;
     background-color: #e83e8c;
     color: #e83e8c;
     font-size: 4px;
-=======
+}
+
 .wellcome_area {
     background-image: url(../img/welcome-bg.png);
     height: 900px;
@@ -29,6 +29,11 @@ p {
     font-weight: 300;
     margin-top: 0;
 }
+
+.card-body p {
+    color: #1d2124;
+}
+
 .welcome-thumb {
     width: 80%;
     position: absolute;
@@ -47,5 +52,4 @@ img {
     max-height: 50%;
     vertical-align: middle;
     border-style: none;
->>>>>>> master
 }
